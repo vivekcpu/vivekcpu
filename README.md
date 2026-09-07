@@ -67,7 +67,7 @@ Building high-impact digital experiences.
 
 ---
 
-## 🎯 OUR MISSION
+## 🎯 MISSION
 
 > Build fast, break complexity, scale clean systems, and never stop growing.
 ---
