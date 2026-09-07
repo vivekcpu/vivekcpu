@@ -16,28 +16,6 @@ Building high-impact digital experiences.
 
 ## 🚀 SYSTEM STATUS & STACK
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-56C8EB?style=for-the-badge&logo=react&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-FF90E8?style=for-the-badge&logo=vite&logoColor=000000)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-A6E4CD?style=for-the-badge&logo=redux&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-FFE053?style=for-the-badge&logo=cplusplus&logoColor=000000)
-
-</div>
-
-> **VIBE:** Maximum Overdrive & Clean Code Architecture
->
-> **STATUS:** Ready for high-performance deployment.
-
----
-
-## 🎯 OUR MISSION
-
-> Build fast, break complexity, scale clean systems, and never stop growing.
-
----
-
-## 🧠 TECHNICAL SKILLS
 
 ### LANGUAGES
 ![C](https://img.shields.io/badge/C-FF90E8?style=for-the-badge&logo=c&logoColor=000000)
@@ -82,6 +60,16 @@ Building high-impact digital experiences.
 ![Ollama](https://img.shields.io/badge/Ollama-FFE053?style=for-the-badge&logo=ollama&logoColor=000000)
 ![OCR Systems](https://img.shields.io/badge/OCR_Systems-FF90E8?style=for-the-badge&logoColor=000000)
 
+
+> **VIBE:** Maximum Overdrive & Clean Code Architecture
+>
+> **STATUS:** Ready for high-performance deployment.
+
+---
+
+## 🎯 OUR MISSION
+
+> Build fast, break complexity, scale clean systems, and never stop growing.
 ---
 
 ## 🛠️ FEATURED SECTORS
