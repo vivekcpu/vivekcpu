@@ -38,7 +38,7 @@ Building high-impact digital experiences.
 ![Node.js](https://img.shields.io/badge/Node.js-56C8EB?style=for-the-badge&logo=nodedotjs&logoColor=000000)
 ![Express.js](https://img.shields.io/badge/Express.js-A6E4CD?style=for-the-badge&logo=express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFE053?style=for-the-badge&logo=mongodb&logoColor=000000)
-![Mongoose](https://img.shields.io/badge/Mongoose_ORM-FF90E8?style=for-the-badge&logoColor=000000)
+![Mongoose](https://img.shields.io/badge/Mongoose-FF90E8?style=for-the-badge&logoColor=000000)
 ![LangChain](https://img.shields.io/badge/LangChain-56C8EB?style=for-the-badge&logo=langchain&logoColor=000000)
 ![Headless CMS](https://img.shields.io/badge/Headless_CMS-A6E4CD?style=for-the-badge&logoColor=000000)
 
