@@ -112,9 +112,27 @@ Building high-impact digital experiences.
 ## 📊 ACTIVITY METRICS
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekcpu&theme=vue-dark&background=fdf6e3&border=000000&stroke=000000&text=000000&fire=f85c94&sideNums=000000" alt="Streak" width="49%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vivekcpu&show_icons=true&theme=radical&bg_color=09090b&title_color=00f5ff&text_color=fafafa&icon_color=ff2e88&border_color=000000&border_radius=0&hide_border=false" 
+    alt="Vivek's GitHub Stats" 
+    width="49%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vivekcpu&theme=radical&background=09090b&border=000000&stroke=000000&ring=00f5ff&fire=ff2e88&currStreakLabel=00f5ff&sideLabels=fafafa&dates=777777&currStreakNum=4af626&sideNums=ffd93d&borderRadius=0" 
+    alt="Vivek's GitHub Streak" 
+    width="49%" 
+  />
 </div>
 
+<br>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekcpu&layout=compact&theme=radical&bg_color=09090b&title_color=ffd93d&text_color=fafafa&border_color=000000&border_radius=0&langs_count=6" 
+    alt="Most Used Languages" 
+    width="60%" 
+  />
+</div>
 ---
 
 <div align="center">
