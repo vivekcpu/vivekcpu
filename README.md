@@ -112,8 +112,8 @@ Building high-impact digital experiences.
 ## 📊 ACTIVITY METRICS
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=vivekcpu&show_icons=true&theme=radical&bg_color=09090b&title_color=00f5ff&text_color=fafafa&icon_color=ff2e88&border_color=09090b&border_radius=8" 
+<img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=vivekcpu&show_icons=true&theme=radical&bg_color=09090b&title_color=00f5ff&text_color=fafafa&icon_color=ff2e88&border_color=09090b&border_radius=8&hide_rank=true" 
     alt="Vivek's GitHub Stats" 
     height="195" 
   />
