@@ -6,7 +6,7 @@
 
 # ⚡ VRT // vivekcpu ⚡
 
-### Full-Stack Architect &nbsp;•&nbsp; C++ Competitive Programmer &nbsp;•&nbsp; Web Developer
+### Full-Stack Architect &nbsp;•&nbsp; C++ Competitive Programmer &nbsp;•&nbsp; Web Developer &nbsp;•&nbsp; Gen AI and Agentic AI Developer
 
 Building high-impact digital experiences.
 
