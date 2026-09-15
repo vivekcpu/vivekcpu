@@ -108,19 +108,18 @@ Building high-impact digital experiences.
 </div>
 
 ---
-
 ## 📊 ACTIVITY METRICS
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vivekcpu&show_icons=true&theme=radical&bg_color=09090b&title_color=00f5ff&text_color=fafafa&icon_color=ff2e88&border_color=000000&border_radius=0&hide_border=false" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivekcpu&show_icons=true&theme=radical&bg_color=09090b&title_color=00f5ff&text_color=fafafa&icon_color=ff2e88&border_color=09090b&border_radius=8" 
     alt="Vivek's GitHub Stats" 
-    width="49%" 
+    height="195" 
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vivekcpu&theme=radical&background=09090b&border=000000&stroke=000000&ring=00f5ff&fire=ff2e88&currStreakLabel=00f5ff&sideLabels=fafafa&dates=777777&currStreakNum=4af626&sideNums=ffd93d&borderRadius=0" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vivekcpu&theme=radical&background=09090b&border=000000&stroke=000000&ring=00f5ff&fire=ff2e88&currStreakLabel=00f5ff&sideLabels=fafafa&dates=777777&currStreakNum=4af626&sideNums=ffd93d&borderRadius=8" 
     alt="Vivek's GitHub Streak" 
-    width="49%" 
+    height="195" 
   />
 </div>
 
@@ -128,13 +127,13 @@ Building high-impact digital experiences.
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekcpu&layout=compact&theme=radical&bg_color=09090b&title_color=ffd93d&text_color=fafafa&border_color=000000&border_radius=0&langs_count=6" 
-    alt="Most Used Languages" 
-    width="60%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vivekcpu&theme=react-dark&bg_color=09090b&color=00f5ff&line=ff2e88&point=4af626&area=true&hide_border=true&border_radius=8" 
+    alt="Vivek's Activity Graph" 
+    width="95%" 
   />
 </div>
----
 
+---
 <div align="center">
 
 **© 2026 VRT — NO RIGHTS RESERVED, ALL WRONGS REVERSED.**
